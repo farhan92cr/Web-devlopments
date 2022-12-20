@@ -1,2 +1,2 @@
-# Web-devlopments
-Alnafi Web Devlopments course practice codes
+# Web-devlopments HTML
+Alnafi Web Devlopments course practice code
